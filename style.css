@@ -1,0 +1,10 @@
+body {
+    padding-top: 100px;
+}
+.box {
+    box-sizing: border-box;
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    background-color: brown;
+}
